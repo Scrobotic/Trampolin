@@ -11,6 +11,7 @@ public final class Trampolines extends JavaPlugin {
         System.out.println("Trampoline Plugin has started!!!");
         // Plugin startup logic
         Bukkit.getServer().getPluginManager().registerEvents(new TrampolinesListener(), this);
+
     }
 
     @Override
