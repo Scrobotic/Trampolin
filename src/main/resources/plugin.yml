@@ -1,0 +1,6 @@
+name: Trampolines
+version: '${version}'
+main: me.scrobotic.trampolines.Trampolines
+api-version: 1.18
+authors: [ Scrobotic ]
+description: JUMP GO BRRRR
