@@ -27,7 +27,7 @@ public class TrampolinesListener implements Listener {
 
         if (block.getType() == Material.BLUE_WOOL)
             {
-               player.setVelocity(new Vector(0, 1, 0));
+               player.setVelocity(new Vector(1, 1, 1));
             }
     }
 
